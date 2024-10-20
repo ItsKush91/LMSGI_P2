@@ -1,0 +1,60 @@
+table{
+    margin: auto;
+}
+table,th, td {
+    border:2px solid black;
+    border-collapse: collapse;
+    color: black;
+    text-align: center;
+  background-color: antiquewhite;
+}
+td,th{
+    padding: 20px 60px 20px 60px; /*pls dont cut my points for changing 80px from 100px TwT(I use this horario and 100 was too much for me )*/
+}
+h1{
+  text-align: center;
+  color: crimson;
+  font-weight: bold;
+}
+caption{
+  color: rgb(4, 105, 33);
+  font-size: 25px;
+}
+
+.days{
+    font-size: 30px;
+    font-weight: bold;
+}
+.en{
+    background-color: greenyellow;
+}
+.prog{
+    background: rgb(34,195,41);
+    background: linear-gradient(216deg, rgba(34,195,41,1) 0%, rgba(45,253,209,1) 100%);
+}
+.bd{
+    background-color: orange;
+}
+.fol{
+    background-color: rgb(13, 138, 138);
+}
+.sge{
+    background-color: goldenrod;
+}
+.si, .tut{
+    background-color: green;
+}
+.lm{
+    background-color: purple;
+}
+.patio{
+  background-color: antiquewhite;
+  font-size: 20px;
+  padding: 15px;
+}
+
+.hores{
+    font-size: 20px;
+    padding: 10px;
+    width: 180px;
+}
